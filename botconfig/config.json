@@ -1,0 +1,49 @@
+{
+   "token": "MTAyNjgzMzgzMzMyNjI4NDgwMQ.Gs0ucg.74YF69rZzprBuvlsFvzKrUxOnJmnP86fQSqTCg",
+   "prefix": "!",
+   "ownerIDS": [
+      "1003396336244232262"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+   "status": {
+      "text": "Played: {songsplayed} Songs",
+      "text2": "Simbolos Crimelife | RageMP",
+      "type": "PLAYING",
+      "url": "dsc.ggsimbolos-crimelife"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava4.horizxon.studio",
+            "port": 80,
+            "password": "horizxon.studio",
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "7f62e21d770e46d18d9b82279a95d789",
+      "clientID": "91ce11600af942468bb1179cb3edc566"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
